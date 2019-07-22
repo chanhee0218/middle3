@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "881528519135",
+    "firebase_url": "https://android-a3cf5.firebaseio.com",
+    "project_id": "android-a3cf5",
+    "storage_bucket": "android-a3cf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881528519135:android:ad8338eb4e859815",
+        "android_client_info": {
+          "package_name": "com.chanhee.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881528519135-0gqaroe6drd6gmofjjnmhbrt78riauq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chanhee.myapplication",
+            "certificate_hash": "e1106d6870509a90f154ffd1e426333789e56bd7"
+          }
+        },
+        {
+          "client_id": "881528519135-7877nmm26tu0v5uh1oa9nn95jkk1pg1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgxfXaq0auhMdkRue4KFwNVjp2GAy4mLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881528519135-7877nmm26tu0v5uh1oa9nn95jkk1pg1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
